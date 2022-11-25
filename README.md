@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/sohagislampk/sohagislampk/blob/main/MERN%20STACK%20(1).jpg"/>
 </div>
-
+---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -17,9 +17,13 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=sohagislampk&style=flat-square&color=blue" align="center" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=sohagislampk&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+
+  ---
+  
+  
+ ### Hi there 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 ---
@@ -61,7 +65,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sohagislampk&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohagislampk)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 ### Hi there 👋
 
 <!--
