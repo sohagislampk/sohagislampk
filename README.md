@@ -1,16 +1,11 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-Label-Color
-https://img.shields.io/badge/LinkedIn-blue
-logo={your social network icon name}
-logoColor={color of the icon}
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
-https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white
-https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
-
-
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -28,12 +23,8 @@ https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoC
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-https://komarev.com/ghpvc/?username=sohagislampk
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=sohagislampk&style=flat-square&color=blue" alt=""/>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -54,11 +45,9 @@ https://komarev.com/ghpvc/?username=sohagislampk
 </div>
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sohagislampk&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohagislampk)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
