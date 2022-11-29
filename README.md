@@ -5,6 +5,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<div align="center" >
+  <img src="https://komarev.com/ghpvc/?username=sohagislampk&style=flat-square&color=blue&width="50px" alt=""/>
+  </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,9 +19,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div align="center" >
-  <img src="https://komarev.com/ghpvc/?username=sohagislampk&style=flat-square&color=blue" alt=""/>
-  </div>
+
 <h1> 
  Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -26,9 +27,6 @@
 ### :woman_technologist: About Me :
 I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.Hard-operating web developer with an aptitude for growing stylish answers withinside the least quantity of time. With a demonstrated cappotential to conform to each self-beginning and collaborative environments even as staying centered on reaching high- great outcomes beneathneath strict deadlines. Eager to acquire a difficult function at a prestigious organisation with a view to make bigger my getting to know and builds upon my developer skills. I'm open to work and employment opportunities.
 - :telescope: I’m working as a MERN Stack developer and contributing to frontend and backend for building web applications in various Projects.
-
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 🤔 I’m looking for help with web developing 
 - 💬 Ask me about web development 
