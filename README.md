@@ -30,6 +30,7 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 🤔 I’m looking for help with web developing 
 - 💬 Ask me about web development 
+- 🔧 Tools - VSCode, GitHub , Chrome Developer Tools , Node Package Manager (npm).
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities 
 - 📫 I am just one Mail away: sohagislampk@gmail.com
@@ -47,6 +48,7 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=square&logo=react-router&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Mongodb-582468?style=flat-square&logo=Mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-156c50?style=flat-square&logo=Express&logoColor=white)
 ![FireBase](https://img.shields.io/badge/Firebase-43853D?style=flat-square&logo=Firebase&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
