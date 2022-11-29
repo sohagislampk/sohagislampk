@@ -58,4 +58,4 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohagislampk)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sohagislampk)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sohagislampk )  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sohagislampk&bg_color=1565C0&color=FFFFFF&line=FFFFFF&point=ffffff&area=true&hide_border=true )  
