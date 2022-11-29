@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center" >
-  <img src="https://komarev.com/ghpvc/?username=sohagislampk&style=for-the-badge&color=blue alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=sohagislampk&style=for-the-badge&color=brightgreen" alt=""/>
   </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/md-shohidul-islam-251553ab/">
