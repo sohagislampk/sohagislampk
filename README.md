@@ -24,14 +24,18 @@
 </h1>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.Hard-operating web developer with an aptitude for growing stylish answers withinside the least quantity of time. With a demonstrated cappotential to conform to each self-beginning and collaborative environments even as staying centered on reaching high- great outcomes beneathneath strict deadlines. Eager to acquire a difficult function at a prestigious organisation with a view to make bigger my getting to know and builds upon my developer skills. I'm open to work and employment opportunities.
+- :telescope: I’m working as a MERN Stack developer and contributing to frontend and backend for building web applications in various Projects.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🤔 I’m looking for help with web developing 
+- 💬 Ask me about web development 
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 👯 I’m currently open for work and employment opportunities 
+- 📫 I am just one Mail away: sohagislampk@gmail.com
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ### :hammer_and_wrench: Languages and Tools :
 
