@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/sohagislampk/">
     <img src="https://img.shields.io/badge/Instagram-E32E7F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://mobile.twitter.com/pksohag)">
+  <a href="https://mobile.twitter.com/pksohag">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -47,10 +47,10 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
             <img alt="Tailwind CSS Alerts" src="https://github.com/sohagislampk/sohagislampk/blob/main/Dental%20Tooth.jpg">
         </a>
       <div id="badges" align="center">
-  <a href="https://www.instagram.com/sohagislampk/">
+  <a href="https://github.com/sohagislampk/doctors-portal-client">
     <img src="https://img.shields.io/badge/Client-E32E7F?style=flat-plastic&logo=github&logoColor=white" alt="Client repository"/>
   </a>
-  <a href="https://mobile.twitter.com/pksohag)">
+  <a href="https://github.com/sohagislampk/doctors-portal-server">
     <img src="https://img.shields.io/badge/Server-004AAD?style=flat-plastic&logo=github&logoColor=white" alt="Server Repository"/>
   </a>
 </div>
@@ -60,10 +60,10 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
             <img alt="Tailwind CSS Badge" src="https://github.com/sohagislampk/sohagislampk/blob/main/travel%20on%20the%20go.jpg">
         </a>
        <div id="badges" align="center">
-  <a href="https://www.instagram.com/sohagislampk/">
+  <a href="https://github.com/sohagislampk/travel-on-the-go-client">
     <img src="https://img.shields.io/badge/Client-E32E7F?style=flat-plastic&logo=github&logoColor=white" alt="Client repository"/>
   </a>
-  <a href="https://mobile.twitter.com/pksohag)">
+  <a href="https://github.com/sohagislampk/travel-on-the-go-server">
     <img src="https://img.shields.io/badge/Server-004AAD?style=flat-plastic&logo=github&logoColor=white" alt="Server Repository"/>
   </a>
 </div>
@@ -73,10 +73,10 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
             <img alt="Tailwind CSS Breadcrumbs" src="https://github.com/sohagislampk/sohagislampk/blob/main/Tune%20tools.jpg">
         </a>
        <div id="badges" align="center">
-  <a href="https://www.instagram.com/sohagislampk/">
+  <a href="https://tune-tools.web.app">
     <img src="https://img.shields.io/badge/Client-E32E7F?style=flat-plastic&logo=github&logoColor=white" alt="Client repository"/>
   </a>
-  <a href="https://mobile.twitter.com/pksohag)">
+  <a href="https://tune-tools.web.app">
     <img src="https://img.shields.io/badge/Server-004AAD?style=flat-plastic&logo=github&logoColor=white" alt="Server Repository"/>
   </a>
 </div>
