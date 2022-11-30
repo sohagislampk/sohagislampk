@@ -34,7 +34,31 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities .
 - 📫 I am just one Mail away: sohagislampk@gmail.com .
-
+### MY Projects
+<table>
+  <tr>
+    <td width="33.3333%">Alerts</td>
+    <td width="33.3333%">Badge</td>
+    <td width="33.3333%">Breadcrumbs</td>
+  </tr>
+  <tr>
+    <td width="33.3333%">
+        <a href="https://doctors-portal-29911.web.app/">
+            <img alt="Tailwind CSS Alerts" src="https://github.com/sohagislampk/sohagislampk/blob/main/Dental%20Tooth.jpg">
+        </a>
+    </td>
+    <td width="33.3333%">
+        <a href="https://travel-on-the-go-a11.web.app/">
+            <img alt="Tailwind CSS Badge" src="https://github.com/sohagislampk/sohagislampk/blob/main/travel%20on%20the%20go.jpg">
+        </a>
+    </td>
+    <td width="33.3333%">
+        <a href="https://tune-tools.web.app/">
+            <img alt="Tailwind CSS Breadcrumbs" src="https://github.com/sohagislampk/sohagislampk/blob/main/Tune%20tools.jpg">
+        </a>
+    </td>
+  </tr>
+  </table>
 
 ### :hammer_and_wrench: Languages and Tools :
 
