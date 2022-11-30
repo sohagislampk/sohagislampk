@@ -46,16 +46,40 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         <a href="https://doctors-portal-29911.web.app/">
             <img alt="Tailwind CSS Alerts" src="https://github.com/sohagislampk/sohagislampk/blob/main/Dental%20Tooth.jpg">
         </a>
+      <div id="badges" align="center">
+  <a href="https://www.instagram.com/sohagislampk/">
+    <img src="https://img.shields.io/badge/Client-E32E7F?style=flat-plastic&logo=github&logoColor=white" alt="Client repository"/>
+  </a>
+  <a href="https://mobile.twitter.com/pksohag)">
+    <img src="https://img.shields.io/badge/Server-004AAD?style=flat-plastic&logo=github&logoColor=white" alt="Server Repository"/>
+  </a>
+</div>
     </td>
     <td width="33.3333%">
         <a href="https://travel-on-the-go-a11.web.app/">
             <img alt="Tailwind CSS Badge" src="https://github.com/sohagislampk/sohagislampk/blob/main/travel%20on%20the%20go.jpg">
         </a>
+       <div id="badges" align="center">
+  <a href="https://www.instagram.com/sohagislampk/">
+    <img src="https://img.shields.io/badge/Client-E32E7F?style=flat-plastic&logo=github&logoColor=white" alt="Client repository"/>
+  </a>
+  <a href="https://mobile.twitter.com/pksohag)">
+    <img src="https://img.shields.io/badge/Server-004AAD?style=flat-plastic&logo=github&logoColor=white" alt="Server Repository"/>
+  </a>
+</div>
     </td>
     <td width="33.3333%">
         <a href="https://tune-tools.web.app/">
             <img alt="Tailwind CSS Breadcrumbs" src="https://github.com/sohagislampk/sohagislampk/blob/main/Tune%20tools.jpg">
         </a>
+       <div id="badges" align="center">
+  <a href="https://www.instagram.com/sohagislampk/">
+    <img src="https://img.shields.io/badge/Client-E32E7F?style=flat-plastic&logo=github&logoColor=white" alt="Client repository"/>
+  </a>
+  <a href="https://mobile.twitter.com/pksohag)">
+    <img src="https://img.shields.io/badge/Server-004AAD?style=flat-plastic&logo=github&logoColor=white" alt="Server Repository"/>
+  </a>
+</div>
     </td>
   </tr>
   </table>
