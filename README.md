@@ -37,9 +37,9 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### MY Projects
 <table>
   <tr>
-    <td width="33.3333%">Alerts</td>
-    <td width="33.3333%">Badge</td>
-    <td width="33.3333%">Breadcrumbs</td>
+    <td width="33.3333%">Dental Tooth</td>
+    <td width="33.3333%">Travel On The Go</td>
+    <td width="33.3333%">Tune Tools</td>
   </tr>
   <tr>
     <td width="33.3333%">
