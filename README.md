@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/sohagislampk/sohagislampk/blob/main/MERN%20STACK%20(1).jpg"/>
+  <img src="https://github.com/sohagislampk/sohagislampk/blob/main/MERN%20STACK%20(2).jpg"/>
 </div>
 
 <div id="header" align="center">
