@@ -34,7 +34,7 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities .
 - 📫 I am just one Mail away: sohagislampk@gmail.com .
-### MY Projects
+### 🥇 MY Projects
 <table>
   <tr>
     <td width="33.3333%">Dental Tooth</td>
