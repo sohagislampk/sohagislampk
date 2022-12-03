@@ -100,6 +100,8 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![FireBase](https://img.shields.io/badge/Firebase-43853D?style=flat-square&logo=Firebase&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-2088CD?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1565C0?style=flat-square&logo=github&logoColor=white)
 
 ### :fire: My Stats :
 
