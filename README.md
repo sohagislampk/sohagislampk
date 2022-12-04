@@ -25,7 +25,7 @@
 </h1>
 
 ### :woman_technologist: About Me :
-I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.Hard-operating web developer with an aptitude for growing stylish answers withinside the least quantity of time. With a demonstrated cappotential to conform to each self-beginning and collaborative environments even as staying centered on reaching high- great outcomes beneathneath strict deadlines. Eager to acquire a difficult function at a prestigious organisation with a view to make bigger my getting to know and builds upon my developer skills. I'm open to work and employment opportunities.
+I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.Hard-operating web developer with an aptitude for growing stylish answers withinside the least quantity of time. With a demonstrated cappotential to conform to each self-beginning and collaborative environments even as staying centered on reaching high- great outcomes beneathneath strict deadlines.Eager to acquire a difficult function at a prestigious organisation with a view to make bigger my getting to know and builds upon my developer skills. I'm open to work and employment opportunities.
 - :telescope: I’m working as a MERN Stack developer and contributing to frontend and backend for building web applications in various Projects.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 🤔 I’m looking for help with web developing.
